@@ -1,0 +1,59 @@
+body{
+   background-color: rgb(86, 20, 252);
+   font: normal 15pt Arial;
+}
+header{
+    text-align: center;
+    color: white;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.587);;
+}
+
+.botao-inicio{
+    color: rgb(0, 0, 0);
+    background-color: rgb(254, 254, 254);
+    border-color: rgb(100, 39, 253);
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 1245px;
+    position: top;
+    bottom: shadow;
+}
+
+button:link{
+    background-color: rgb(196, 196, 196);
+    cursor: pointer;
+}
+
+button:hover{
+    /*text-decoration: underline;*/
+    background-color: rgb(196, 196, 196);
+    cursor: pointer;
+}
+
+#imagem{
+    border-color: black 2px;
+    border: black;
+}
+
+div{
+    text-align: center;
+}
+
+
+section{
+    background-color: white;
+    padding: 50px;
+    margin: auto;
+    border-radius: 10px;
+    color: rgb(86, 20, 252);
+    width: 500px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.587);
+    height: 300px;
+
+}
+footer{
+   text-align: center;
+   color: white;
+}
